@@ -61,6 +61,9 @@
       location = "group:LogglyService/LogglyService.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:GarminService/GarminService.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:TidepoolService/TidepoolService.xcodeproj">
    </FileRef>
    <FileRef

@@ -58,3 +58,6 @@
 [submodule "LibreTransmitter"]
 	path = LibreTransmitter
 	url = https://github.com/LoopKit/LibreTransmitter.git
+[submodule "GarminService"]
+	path = GarminService
+	url = git@github.com:janvv/GarminService.git
