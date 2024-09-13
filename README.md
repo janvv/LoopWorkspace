@@ -20,10 +20,8 @@ This repository uses git submodules to pull in the various workspace dependencie
 To clone this repo:
 
 ```
-git clone --branch=<branch> --recurse-submodules https://github.com/LoopKit/LoopWorkspace
+git clone --branch=garminservice --recurse-submodules https://github.com/janvv/LoopWorkspace.git
 ```
-
-Replace `<branch>` with the initial LoopWorkspace repository branch you wish to checkout.
 
 ### Open
 
